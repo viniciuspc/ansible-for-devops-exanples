@@ -1,0 +1,4 @@
+---
+# Default vars can be overwriten by the vars.yml of a playbook.
+node_npm_modules:
+  - forever

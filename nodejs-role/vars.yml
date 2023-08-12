@@ -1,0 +1,7 @@
+---
+node_npm_modules:
+  - forever
+  - async
+  - request
+
+node_apps_location: /usr/local/opt/node
